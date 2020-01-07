@@ -3,23 +3,23 @@
 ----------------------------------------------
 
 ##### Commit Convention Rule : 날짜 [주제] : 행위
-  > 2020.01.07 [Java] : Add String 관련 클래스들 비교
+> 2020.01.07 [Java] : Add String 관련 클래스들 비교
 
 
 ## Part 1. Computer Science
 
-#### 📒 Data Structure
+### 📒 Data Structure
 
-#### 📕 Operating System
+### 📕 Operating System
 
-#### 📗 Database
+### 📗 Database
 
-#### 📘 Network
+### 📘 Network
 
 ## Part 2. Language
 
-#### 💻 Java
+### 💻 Java
 
-#### 💻 Python
+### 💻 Python
 
 ## Part 3. ETC
