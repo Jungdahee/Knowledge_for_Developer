@@ -15,3 +15,11 @@
 #### 📗 Database
 
 #### 📘 Network
+
+## Part 2. Language
+
+#### 💻 Java
+
+#### 💻 Python
+
+## Part 3. ETC
