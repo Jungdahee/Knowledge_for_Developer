@@ -1,4 +1,4 @@
-# for_Developer
+# Knowledge_for_Developer
 ### ✏️ 개발자가 되기 위한 필수 전공 지식 정리함 🖊
 
 ##### Commit Convention Rule : 날짜 [주제] : 행위
