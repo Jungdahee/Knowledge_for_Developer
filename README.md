@@ -19,6 +19,4 @@
 
 ### 💻 Java
 
-### 💻 Python
-
 ## Part 3. ETC
